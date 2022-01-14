@@ -21,7 +21,6 @@ Which uses scikit-learn TfidfVectorizer & cosine similarity to recommend similar
 
 * Movie Recommendation
 
-* Profile
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Parth</h1><a href="https://ibb.co/b6zTDH7"></a>
