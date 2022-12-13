@@ -1,5 +1,5 @@
 
-# Boston Houses Price Prediction 
+# AI4I 2020 Predictive Maintenance
 
 AI4I 2020 Predictive Maintenance Dataset model using Linear Regression ML Model
 
